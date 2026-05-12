@@ -10,3 +10,7 @@ print(student)
 
 person = ("Bob", 30, "Engineer")
 print(person)
+
+# loop with lists
+for item in student:
+    print(item)
