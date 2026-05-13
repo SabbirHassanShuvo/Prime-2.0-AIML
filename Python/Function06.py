@@ -10,3 +10,9 @@ roll = 101
 print(type(name))
 print(type(roll))
 
+# converter function
+def conveter(usd_val):
+    inr_val = usd_val * 82.74
+    print(f"{usd_val} USD is equal to {inr_val} INR")
+
+conveter(100)
