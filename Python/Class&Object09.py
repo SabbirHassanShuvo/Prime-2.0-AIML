@@ -33,12 +33,12 @@
 # print(s2.name, s2.age)
 
 # class and obejct attr
-class Student:
-    collefe
+# class Student:
+#     collefe
 
-    def __init__(self, name, marks):
-        self.name = name
-        self.marks = marks
+#     def __init__(self, name, marks):
+#         self.name = name
+#         self.marks = marks
     
-s1 = Student("Md Sabbir hassan", 50)
-print(s1.name)
+# s1 = Student("Md Sabbir hassan", 50)
+# print(s1.name)
