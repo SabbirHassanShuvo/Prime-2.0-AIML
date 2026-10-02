@@ -16,3 +16,7 @@ def conveter(usd_val):
     print(f"{usd_val} USD is equal to {inr_val} INR")
 
 conveter(100)
+
+
+
+# work some changes 
